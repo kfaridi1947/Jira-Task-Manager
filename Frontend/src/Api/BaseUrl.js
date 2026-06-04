@@ -1,0 +1,1 @@
+export const baseUrl = 'https://team-managementyt-1.onrender.com/api'
